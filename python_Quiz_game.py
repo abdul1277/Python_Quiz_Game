@@ -5,7 +5,6 @@
 # - Each round 5 questions
 # - Round summary: correct/wrong answers
 # - Case-insensitive input (a/A accepted)
-# - Pure English questions
 
 print("Welcome to Python Quiz Game!")
 score = 0
